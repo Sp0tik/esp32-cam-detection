@@ -1,7 +1,7 @@
-#define WIFI_SSID       "1111"
-#define WIFI_PASSWORD   "12348765"
-#define BOT_TOKEN       "***REDACTED***"
-#define CHAT_ID         "6928524630"
+#define WIFI_SSID       "Change"
+#define WIFI_PASSWORD   "Change"
+#define BOT_TOKEN       "Change"
+#define CHAT_ID         "Change"
 
 // Налаштування виявлення
 #define CONFIDENCE_THR      0.70   

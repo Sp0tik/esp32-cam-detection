@@ -21,10 +21,10 @@
 // =========================================================
 // НАЛАШТУВАННЯ — змінюй тільки тут
 // =========================================================
-#define WIFI_SSID       "TP-Link_F47D"
-#define WIFI_PASSWORD   "36686544"
-#define BOT_TOKEN       "***REDACTED***"
-#define CHAT_ID         "6928524630"
+#define WIFI_SSID       "Change"
+#define WIFI_PASSWORD   "Change"
+#define BOT_TOKEN       "Change"
+#define CHAT_ID         "Change"
 #define CONFIDENCE_THR  0.45        // поріг впевненості (0.0 – 1.0)
 #define ALERT_COOLDOWN  30000       // мінімум мс між сповіщеннями
 // =========================================================

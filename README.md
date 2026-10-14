@@ -83,6 +83,7 @@
 - [VS Code](https://code.visualstudio.com/)
 - Розширення [PlatformIO IDE](https://platformio.org/install/ide?install=vscode)
 - Python 3.x (встановлюється разом з PlatformIO)
+- C++
 
 ### 2. Клонування репозиторію
 
